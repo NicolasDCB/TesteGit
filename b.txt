@@ -1,1 +1,2 @@
 Testando outras mudanças
+resolvendo bug
