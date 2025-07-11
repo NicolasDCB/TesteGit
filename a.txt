@@ -3,3 +3,4 @@ de arquivos
 via comando pull
 Resetando o arquivo via stash
 Salvando alterações atraves de tags
+--essa é a versão 1
