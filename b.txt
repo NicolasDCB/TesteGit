@@ -1,4 +1,4 @@
 Testando outras mudanças
 resolvendo bug
 aqui está a funcionalidade a
-enviando funcionalidade b
+enviando a nova funcionalidade
