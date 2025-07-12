@@ -3,3 +3,5 @@ resolvendo bug
 aqui está a funcionalidade a
 adicionando funcionalidade x
 atualizando a função x
+teste de 
+diff
